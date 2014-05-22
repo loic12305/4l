@@ -1,0 +1,28 @@
+#equipage {
+	width:120%;
+}
+
+
+#equipage .loic {
+	float:left;	
+	width:50%;
+}
+#equipage .loic  img{
+	float:left;
+	border-radius: 10px;
+	margin-right: 39%;
+}
+
+
+
+#equipage .clemence{
+	float:right;
+	width:50%;
+	
+}
+
+#equipage .clemence img{
+	float:right;
+	border-radius: 15px;
+	margin-left: 5%;
+}
