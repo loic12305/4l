@@ -223,21 +223,21 @@
 <p>Chez Clémence Delille<br/>21 rue des chanoines - 72000 Le Mans, France</p>
 
                                     <div class="col-sm-6 col-md-6">
-                                        <form action="#" method="post">
+                                        <form action="trait_form.php" method="post"> 
 
                                                 <div class="form-group">
                                                     <!--<label for="contact_name">Name:</label>-->
-                                                    <input type="text" id="contact_name" class="form-control" placeholder="Nom" />
-                                                </div>
+                                                    <input type="text" name="nom" id="contact_name" class="form-control" placeholder="Nom" />
+												</div>
                                                 <div class="form-group">
                                                     <!--<label for="contact_email">Email:</label>-->
-                                                    <input type="text" id="contact_email" class="form-control" placeholder="Email" />
+                                                    <input type="text" name="email" id="contact_email" class="form-control" placeholder="Email" />
                                                 </div>
                                                 <div class="form-group">
                                                     <!--<label for="contact_message">Message:</label>-->
-                                                    <textarea id="contact_message" class="form-control" rows="9" placeholder="Message"></textarea>
+                                                    <textarea name="message" id="contact_message" class="form-control" rows="9" placeholder="Message"></textarea>
                                                 </div>
-                                                <button type="submit" class="btn btn-primary">Envoyer</button>
+                                                <button type="submit" name="envoi" class="btn btn-primary">Envoyer</button>
 
                                         </form>
                                     </div>
