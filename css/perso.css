@@ -14,7 +14,7 @@
 }
 
 #equipage ul{
-    font-size:1.1em;
+    font-size:1.5em;
 
 }
 
@@ -31,13 +31,13 @@
 }
 
 .budget_list li  {
-	font-size:1.5em;
+	font-size:1.7em;
 	font-weight:bold;
 	list-style-type:initial;
 }
 
 .budget_list ol li  {
-	font-size:1.1em;
+	font-size:1.5em;
 	font-weight:normal;
 	list-style-type:circle;
 }
