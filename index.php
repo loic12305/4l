@@ -82,13 +82,13 @@
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <h1>4L s'en va ...</h1>
 
-<p>... loin, très loin ! Pour un périple de plus de 6000 kms à travers la France, l'Espagne et le Maroc, pour venir en aide au plus démunis.</p>
+<p>... loin, très loin ! Pour un périple de plus de 6000 kms à travers la France, l'Espagne et le Maroc, pour venir en aide aux plus démunis.</p>
 <p> Pour que cela puisse se faire, nous avons besoin de votre soutien !!! Aidez-nous grâce à vos dons financiers ou materiels, chaque participation a son importance.<br/>
 <b>Téléchargez notre <a href="#">dossier</a> et rejoignez nos partenaires !</b></p>
  <HR width=75% noshade size=8> 
 <h3>Mais le 4L Trophy, c'est quoi ?</h3>
 <img src="images/4l_logo.png" width="15%" style="float:left;margin-right:2%;"/>
-<p>Le 4L Trophy est un <b>raid automobile humanitaire</b>destiné aux étudiants. Chaque année, plus de 1 200 équipages se lancent sur un parcours de plus de <b>6 000 km</b> traversant la <b>France</b>, l’<b>Espagne</b> et le <b>Maroc</b> pour <b>apporter</b> des fournitures scolaires et sportives à destination des <b>enfants du Sud Marocain en difficulté</b>.</p>
+<p>Le 4L Trophy est un <b>raid automobile humanitaire</b> destiné aux étudiants. Chaque année, plus de 1 200 équipages se lancent sur un parcours de plus de <b>6 000 km</b> traversant la <b>France</b>, l’<b>Espagne</b> et le <b>Maroc</b> pour <b>apporter</b> des fournitures scolaires et sportives à destination des <b>enfants du Sud Marocain en difficulté</b>.</p>
 
 
 </div>
@@ -105,7 +105,7 @@
 									<ul>
 									  <li>20 ans</li>
 									  <li><b>É</b>cole <b>S</b>upérieure des <b>A</b>rts <b>D</b>écoratifs de <b>S</b>trasbourg</li> 
-									  <li><b>Point fort</b> : Progmatisme</li>
+									  <li><b>Point fort</b> : Pragmatisme</li>
 									  <!-- Bonne conscience de la 4L <a>(“Hum... ca passera pas ...”)</a> -->
 									  <li><b>Point faible</b> : Sens de l'orientation légendaire</li>
 									  <!-- comme le GPS mais avec un leger décallage -->
@@ -256,7 +256,7 @@
             <div class="row">
 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
-                    <p class="footer-text">v1.2.3<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
+                    <p class="footer-text">v1.2.4<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
                 </div><!-- /.footer --> 
             </div>
 
