@@ -104,9 +104,11 @@
 									<img src="images/c.jpg" width="43.5%"/>
 									<ul>
 									  <li>20 ans</li>
-									  <li>Beau arts de Strasbourg</li> 
-									  <li><b>Point fort</b> : Bonne conscience de la 4L <a>(“Hum... ca passera pas ...”)</a></li>
-									  <li><b>Point faible</b> : comme le GPS mais avec un leger décallage</li>
+									  <li><b>É</b>cole <b>S</b>upérieure des <b>A</b>rts <b>D</b>écoratifs de <b>S</b>trasbourg</li> 
+									  <li><b>Point fort</b> : Progmatisme</li>
+									  <!-- Bonne conscience de la 4L <a>(“Hum... ca passera pas ...”)</a> -->
+									  <li><b>Point faible</b> : Sens de l'orientation légendaire</li>
+									  <!-- comme le GPS mais avec un leger décallage -->
 									</ul>
 									</div>
 									<div class="loic"><h2><a>Loïc ENTRESSANGLE</a></h2><h3>Pilote</h3>
@@ -254,7 +256,7 @@
             <div class="row">
 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
-                    <p class="footer-text">v1.2.2<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
+                    <p class="footer-text">v1.2.3<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
                 </div><!-- /.footer --> 
             </div>
 
