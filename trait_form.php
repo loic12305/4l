@@ -62,10 +62,10 @@ else
 	$prenom     = (isset($_POST['prenom']))     ? Rec($_POST['prenom'])     : '';
 	$tel     = $_POST['phone'];
 	$email   = (isset($_POST['email']))   ? Rec($_POST['email'])   : '';
-	$objet   = "Demande du site de la fanfare";
+	$objet   = "Demande du 4L trophy";
 	$message = (isset($_POST['message'])) ? Rec($_POST['message']) : '';
 	$message = $message."
-email : ".$email." tel : ".$tel;
+email : ".$email;
 
 	$email = (IsEmail($email)) ? $email : ''; // soit l'email est vide si erron&eacute;, soit il vaut l'email entr&eacute;
 
@@ -101,19 +101,19 @@ email : ".$email." tel : ".$tel;
 		if (mail($cible, $objet, $message, $headers))
 		{
 			echo '<p>'.$message_envoye.'</p>'."\n";
-			header ("Refresh: 2;URL=index.html");
+			header ("Refresh: 2;URL=index.php");
 		}
 		else
 		{
 			echo '<p>'.$message_non_envoye.'</p>'."\n";
-			header ("Refresh: 2;URL=index.html");
+			header ("Refresh: 2;URL=index.php");
 			
 		};
 	}
 	else
 	{
 		// une des 3 variables (ou plus) est vide ...
-		echo '<p>'.$message_formulaire_invalide.' <a href="index.html">Retour au formulaire</a></p>'."\n";
+		echo '<p>'.$message_formulaire_invalide.' <a href="index.php">Retour au formulaire</a></p>'."\n";
 	};
 }; // fin du if (!isset($_POST['envoi']))
 
