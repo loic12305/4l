@@ -104,9 +104,9 @@
 									<img src="images/c.jpg" width="43.5%"/>
 									<ul>
 									  <li>20 ans</li>
-									  <li><b>É</b>cole <b>S</b>upérieure des <b>A</b>rts <b>D</b>écoratifs de <b>S</b>trasbourg</li> 
-									  <li><b>Point fort</b> : Pragmatisme</li>
-									  <!-- Bonne conscience de la 4L <a>(“Hum... ca passera pas ...”)</a> -->
+									  <li><b>É</b>cole <b>S</b>upérieure des <b>A</b>rts <b>D</b>écoratifs de Strasbourg</li> 
+									  <li><b>Point fort</b> : Pragmatisme <a>(“Ça va pas passer Loïc”)</a></li>
+									  <!-- Bonne conscience de la 4L <a>(“Ça va pas passer Loïc ...”)</a> -->
 									  <li><b>Point faible</b> : Sens de l'orientation légendaire</li>
 									  <!-- comme le GPS mais avec un leger décallage -->
 									</ul>
@@ -116,8 +116,8 @@
 									<ul>
 										<li>22 ans</li>
 										<li>Étudiant en informatique à Nantes</li>
-										<li><b>Point fort</b> : Pilote de rally dans les Alpes mancelles <a>("si ... ça passe ...")</a></li>
-										<li><b>Point faible</b> : Convaincu que les routes changent la nuit, on s’y retrouve pas !</li>
+										<li><b>Point fort</b> : Pilote de 207 dans les Alpes mancelles <a>("mais si ça passe")</a></li>
+										<li><b>Point faible</b> : Hâtif<!--Convaincu que les routes changent la nuit, on s’y retrouve pas !--></li>
 									</ul>
 									</div>
 								</div>
@@ -256,7 +256,7 @@
             <div class="row">
 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
-                    <p class="footer-text">v1.3.0<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
+                    <p class="footer-text">v1.3.1<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
                 </div><!-- /.footer --> 
             </div>
 
