@@ -18,6 +18,7 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/perso.css">
+		<link rel="stylesheet" href="css/responsive.css">
     </head>
     <body>
 	<?php include('cpt.php'); ?>
@@ -61,7 +62,6 @@
 					</center>
 				</ul>
             </div><!-- /.menu -->
-            <div id="partenaire"><a href="http://www.phonations.com/fr/"><img src="images/partenaires/p2.jpg"/></a>   <a href="http://www.cognix-systems.com/"><img src="images/partenaires/p3.jpg"/></a>   <a href="http://www.e-leclerc.com/"><img src="images/partenaires/p4.jpg"/></a>     <a href="http://www.magasins-u.com/"><img src="images/partenaires/p5.jpg"/>  </a></div>
 
 
             <div class="image-section">
@@ -252,6 +252,7 @@
                     </div><!-- /.content -->  
                 </div><!-- /.content-wrapper --> 
             </div><!-- /.row --> 
+            <div id="partenaire"><a href="http://www.phonations.com/fr/"><img src="images/partenaires/p2.jpg"/></a>   <a href="http://www.cognix-systems.com/"><img src="images/partenaires/p3.jpg"/></a>   <a href="http://www.e-leclerc.com/"><img src="images/partenaires/p4.jpg"/></a>     <a href="http://www.magasins-u.com/"><img src="images/partenaires/p5.jpg"/>  </a></div>
 
             <div class="row">
 

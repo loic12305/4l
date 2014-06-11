@@ -41,3 +41,11 @@
 	font-weight:normal;
 	list-style-type:circle;
 }
+
+#partenaire {
+	margin-top: -25%;
+	height: 300px;
+	width: 11%;
+	margin-left: 1%;
+	float: left;
+}

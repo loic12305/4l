@@ -1,0 +1,75 @@
+/*Iphone 5 width : 320px*/
+
+@media screen and (max-width: 768px)
+{
+    #partenaire
+    {
+	margin-top: -6.5%;
+	width: 100%;
+	margin-left: 20%;
+    }
+	
+	h2, .h2 {
+	font-size: 15px;
+	}
+		.content p {
+	font-family: 'Raleway', sans-serif;
+	color: #000;
+	font-size: 12px;
+	}
+
+
+	#equipage .clemence {
+	width: 77%;
+
+	}
+
+	#equipage .loic {
+	width: 77%;
+	float: none;
+	}
+
+
+}
+
+@media screen and (max-width: 990px)
+{
+    #partenaire
+    {
+	margin-top:0%;
+	width: 100%;
+	margin-left: 0%;
+    }
+}
+
+
+
+@media screen and (max-width: 240px)
+{
+    #partenaire
+    {
+	display:none;
+   }
+	
+	h2, .h2 {
+	font-size: 15px;
+	}
+		.content p {
+	font-family: 'Raleway', sans-serif;
+	color: #000;
+	font-size: 12px;
+	}
+
+
+	#equipage .clemence {
+	width: 77%;
+
+	}
+
+	#equipage .loic {
+	width: 77%;
+	float: none;
+	}
+
+
+}

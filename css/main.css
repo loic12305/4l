@@ -175,19 +175,6 @@ img.slide {
     display: block;
 }
 
-#partenaire{
-    float:left;
-    margin-top:20%;
-    height:300px;
-    width:11%;
-    position:fixed;
-    
-
-}
-#partenaire img{
-    padding-top:10px;
-
-}
 
 #responsive > .active > a,
 #responsive li a:hover {
