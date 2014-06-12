@@ -84,7 +84,7 @@
 
 <p>... loin, très loin ! Pour un périple de plus de 6000 kms à travers la France, l'Espagne et le Maroc, pour venir en aide aux plus démunis.</p>
 <p> Pour que cela puisse se faire, nous avons besoin de votre soutien !!! Aidez-nous grâce à vos dons financiers ou materiels, chaque participation a son importance.<br/>
-<b>Téléchargez notre <a href="#">dossier</a> et rejoignez nos partenaires !</b></p>
+<b>Téléchargez notre <a href="dossier_sponso_4l.pdf">dossier</a> et rejoignez nos partenaires !</b></p>
  <HR width=75% noshade size=8> 
 <h3>Mais le 4L Trophy, c'est quoi ?</h3>
 <img src="images/4l_logo.png" width="15%" style="float:left;margin-right:2%;"/>
@@ -131,7 +131,7 @@
                             <h2 class="text-center">Nos partenaires</h2>
                             <div class="col-sm-12 col-md-12">
                                 <p>Voici nos partenaires, ces derniers auront donc un encart publicitaire sur la 4L en fonction de leurs besoins. </p>
-								<p>Si vous aussi vous désirez en faire partie, téléchargez notre dossier <a href="#"><b>ici</b></a>.</p>
+								<p>Si vous aussi vous désirez en faire partie, téléchargez notre dossier <a href="dossier_sponso_4l.pdf"><b>ici</b></a>.</p>
 								 <table width="100%">
 									<tr><td><h3> <a href="http://www.magasins-u.com/">Super U</a></h3><a href="http://www.magasins-u.com/"><img src="images/partenaires/p5.jpg"></a></td>
 									<td><h3> <a href="http://www.phonations.com/fr/">Phonations</a></h3><a href="http://www.phonations.com/fr/"><img src="images/partenaires/p2.jpg"></a></td></tr>
@@ -257,7 +257,7 @@
             <div class="row">
 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
-                    <p class="footer-text">v2.0<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
+                    <p class="footer-text">v2.0.1<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
                 </div><!-- /.footer --> 
             </div>
 
