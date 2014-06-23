@@ -8,7 +8,7 @@
 		<link rel="icon" type="image/png" href="images/favicon.png" />
         <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
         <title>4L s'en va - 4L Trophy</title>
-    	<meta name="keywords" content="4L, trophy, clemence, loic, desert, humanite" />
+    	<meta name="keywords" content="4L, trophy, clemence, loic, desert, humanite,4l s'en va,s'en,va,mans" />
 	<meta name="description" content="Les site de l'association, pour le 4L Trophy." />
         <meta name="viewport" content="width=device-width">
         
@@ -47,15 +47,14 @@
                     <li class="contact-menu"><a href="#contact">Contact</a></li>
 					<center>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations">
-<input type="hidden" name="business" value="loic19922004@yahoo.fr">
-<input type="hidden" name="lc" value="FR">
-<input type="hidden" name="no_note" value="0">
-<input type="hidden" name="currency_code" value="EUR">
-<input type="hidden" name="bn" value="PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
 <input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
 
 
 					<!--<center><a href="#"><img src="images/paypal.gif" width="60%"/></a>-->
@@ -257,7 +256,7 @@
             <div class="row">
 
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
-                    <p class="footer-text">v2.0.1<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
+                    <p class="footer-text">v2.0.2<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
                 </div><!-- /.footer --> 
             </div>
 
