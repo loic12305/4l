@@ -73,3 +73,22 @@
 
 
 }
+
+
+@media screen and (max-width: 1485px)
+{
+    .menu {
+		position: fixed;
+		width: 220px;
+		z-index: 1;
+		top: 33%;
+	}
+	#partenaire {
+		margin-top: -17%;
+		height: 300px;
+		width: 11%;
+		margin-left: 1%;
+		float: left;
+	}
+
+}
