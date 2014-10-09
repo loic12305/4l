@@ -159,10 +159,16 @@
                         <section id="testimonial-text" class="inactive">
                             <div class="col-sm-12 col-md-12">
                                 <h2>Notre 4L</h2>
-                               <!-- <p>Il va en falloir de kilomètres pour mettre en échec cette traction avant de <b>603cm3</b>! La puissance dévellopée par ses <b>23 chevaux</b> viendrai à bout de n'importe 
-								quel terrain. Cette <b>berline</b> d'a peine <b>600kg</b> compte bien accomplir sa mission <b>humanitaire</b> !</p>-->
-								<p>Elle n'est pas encore achetée, pour cela, "<u>4L s'en va</u>" a besoin de fonds, si vous souhaitez nous aider, rendez-vous dans la rubrique <b>"Nos partenaires"</b> ou cliquez sur "<b>Faire
-								un don</b>" dans le menu à gauche.</p>
+                                    <p>Il va en falloir deis kilomètres pour mettre en échec cette traction avant de <b>603cm3</b>! La puissance dévellopée par ses <b>23 chevaux</b> viendra à bout de n'importe 
+								quel terrain. Cette <b>berline</b> d'a peine <b>600kg</b> compte bien accomplir sa mission <b>humanitaire</b> !</p>
+			<center>	
+								<img src="images/4l/1.jpg" alt="1" width="15%" style="margin:1em;"/> <img src="images/4l/2.jpg" alt="2" width="20%" style="margin:1em;"/> <img src="images/4l/3.jpg" alt="3" width="20%" style="margin:1em;"/> 
+
+<br/>
+<img src="images/4l/4.jpg" alt="4" width="15%" style="margin:1em;"/><img src="images/4l/5.jpg" alt="5" width="15%" style="margin:1em;"/><img src="images/4l/6.jpg" alt="6" width="20%" style="margin:1em;"/>
+</center>
+
+
 								
 								<HR width=75% noshade size=8> 
 <h3>Le budget nécéssaire</h3>
