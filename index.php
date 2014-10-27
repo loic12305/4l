@@ -46,14 +46,16 @@
                     <li class="testimonial-menu"><a href="#testimonial">Notre 4L</a></li>
                     <li class="contact-menu"><a href="#contact">Contact</a></li>
 					<center>
+
+
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
 ">
 <input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 
 
 
@@ -133,7 +135,7 @@
 								<p>Si vous aussi vous désirez en faire partie, téléchargez notre dossier <a href="dossier_sponso_4l.pdf"><b>ici</b></a>.</p>
 								 <table width="100%">
 									<tr><td><h3> <a href="http://www.magasins-u.com/">Super U</a></h3><a href="http://www.magasins-u.com/"><img src="images/partenaires/p5.jpg"></a></td>
-									<td><h3> <a href="http://www.phonations.com/fr/">Phonations</a></h3><a href="http://www.phonations.com/fr/"><img src="images/partenaires/p2.jpg"></a></td></tr>
+									</tr>
 									<tr><td><h3> <a href="http://www.cognix-systems.com/">Cognix-Systems</a></h3>
 								 <a href="http://www.cognix-systems.com/"><img src="images/partenaires/p3.jpg"></a></td><td> <h3> <a href="http://www.e-leclerc.com/">Leclerc</a></h3>
 								  <a href="http://www.e-leclerc.com/"><img src="images/partenaires/p4.jpg"/></a></td></tr>
@@ -159,13 +161,21 @@
                         <section id="testimonial-text" class="inactive">
                             <div class="col-sm-12 col-md-12">
                                 <h2>Notre 4L</h2>
-                                    <p>Il va en falloir deis kilomètres pour mettre en échec cette traction avant de <b>603cm3</b>! La puissance dévellopée par ses <b>23 chevaux</b> viendra à bout de n'importe 
+					<p>Nous avons acheté notre 4L il y a plusieurs semaines, dans un état... critique. En effet, un des avantages de cette petite voiture est de pouvoir entièrement se monter, et se démonter. Lors de l'achat, elle se trouvait donc sans portières avant, le capot démonté, et dans un curieux assemblage de plusieurs 4L.</p>
+<p>Cependant, le moteur ronronnait déjà, le châssis était complètement sain, et nous avons senti qu'elle avait l'âme d'une vraie gagnante !!
+Ainsi, avec les précieux conseils du papa de Clémence (grand amateur de cette voiture), nous avons réparé et repeint notre 4L. Elle est en ce moment en train de passer le contrôle technique !
+D'ici quelques jours, nous allons installer les équipements nécessaires au rally. En effet, puisque la course aura lieu sur tous les types de terrain, nous avons besoin d'installer des plaques de protection sous le moteur et sous le réservoir ainsi que des anneaux de remorquage à l'avant et à l'arrière du véhicule.</p>
+<p>
+Nous sommes déjà extrêmement attachés à cette voiture et attendons avec impatience de pouvoir rouler avec !!</p>
+
+                                 <p>Il va en falloir des kilomètres pour mettre en échec cette traction avant de <b>603cm3</b>! La puissance dévellopée par ses <b>23 chevaux</b> viendra à bout de n'importe 
 								quel terrain. Cette <b>berline</b> d'a peine <b>600kg</b> compte bien accomplir sa mission <b>humanitaire</b> !</p>
 			<center>	
 								<img src="images/4l/1.jpg" alt="1" width="15%" style="margin:1em;"/> <img src="images/4l/2.jpg" alt="2" width="20%" style="margin:1em;"/> <img src="images/4l/3.jpg" alt="3" width="20%" style="margin:1em;"/> 
 
 <br/>
-<img src="images/4l/4.jpg" alt="4" width="15%" style="margin:1em;"/><img src="images/4l/5.jpg" alt="5" width="15%" style="margin:1em;"/><img src="images/4l/6.jpg" alt="6" width="20%" style="margin:1em;"/>
+<img src="images/4l/4.jpg" alt="4" width="15%" style="margin:1em;"/><img src="images/4l/5.jpg" alt="5" width="15%" style="margin:1em;"/><img src="images/4l/6.jpg" alt="6" width="20%" style="margin:1em;"/> <img src="images/4l/7.jpg" alt="7" width="15%" style="margin:1em;"/>
+
 </center>
 
 
@@ -257,7 +267,7 @@
                     </div><!-- /.content -->  
                 </div><!-- /.content-wrapper --> 
             </div><!-- /.row --> 
-            <div id="partenaire"><a href="http://www.phonations.com/fr/"><img src="images/partenaires/p2.jpg"/></a>   <a href="http://www.cognix-systems.com/"><img src="images/partenaires/p3.jpg"/></a>   <a href="http://www.e-leclerc.com/"><img src="images/partenaires/p4.jpg"/></a>     <a href="http://www.magasins-u.com/"><img src="images/partenaires/p5.jpg"/>  </a></div>
+            <div id="partenaire"><a href="http://www.cognix-systems.com/"><img src="images/partenaires/p3.jpg"/></a>   <a href="http://www.e-leclerc.com/"><img src="images/partenaires/p4.jpg"/></a>     <a href="http://www.magasins-u.com/"><img src="images/partenaires/p5.jpg"/>  </a></div>
 
             <div class="row">
 
