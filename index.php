@@ -17,8 +17,13 @@
         
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/main.css">
-		<link rel="stylesheet" href="css/perso.css">
-		<link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="css/perso.css">
+	<link rel="stylesheet" href="css/responsive.css">
+
+	<!-- strip gallery -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="strip-1.2.4/js/strip.pkgd.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="strip-1.2.4/css/strip.css"/>
     </head>
     <body>
 	<?php include('cpt.php'); ?>
@@ -171,13 +176,16 @@ Nous sommes déjà extrêmement attachés à cette voiture et attendons avec imp
                                  <p>Il va en falloir des kilomètres pour mettre en échec cette traction avant de <b>603cm3</b>! La puissance dévellopée par ses <b>23 chevaux</b> viendra à bout de n'importe 
 								quel terrain. Cette <b>berline</b> d'a peine <b>600kg</b> compte bien accomplir sa mission <b>humanitaire</b> !</p>
 			<center>	
-								<img src="images/4l/1.jpg" alt="1" width="15%" style="margin:1em;"/> <img src="images/4l/2.jpg" alt="2" width="20%" style="margin:1em;"/> <img src="images/4l/3.jpg" alt="3" width="20%" style="margin:1em;"/> 
-
+								<a href="images/4l/1.jpg" class="strip"><img src="images/4l/1.jpg" alt="1" width="15%" style="margin:1em;"/></a>
+<a href="images/4l/2.jpg" class="strip"><img src="images/4l/2.jpg" alt="2" width="20%" style="margin:1em;"/></a>	
+ <a href="images/4l/3.jpg" class="strip"><img src="images/4l/3.jpg" alt="3" width="20%" style="margin:1em;"/></a>
 <br/>
-<img src="images/4l/4.jpg" alt="4" width="15%" style="margin:1em;"/><img src="images/4l/5.jpg" alt="5" width="15%" style="margin:1em;"/><img src="images/4l/6.jpg" alt="6" width="20%" style="margin:1em;"/> <img src="images/4l/7.jpg" alt="7" width="15%" style="margin:1em;"/>
+ <a href="images/4l/4.jpg" class="strip"><img src="images/4l/4.jpg" alt="4" width="15%" style="margin:1em;"/></a>
+ <a href="images/4l/5.jpg" class="strip"><img src="images/4l/5.jpg" alt="5" width="15%" style="margin:1em;"/></a>
+ <a href="images/4l/6.jpg" class="strip"><img src="images/4l/6.jpg" alt="6" width="20%" style="margin:1em;"/></a>
+ <a href="images/4l/7.jpg" class="strip"><img src="images/4l/7.jpg" alt="7" width="15%" style="margin:1em;"/></a>
 
 </center>
-
 
 								
 								<HR width=75% noshade size=8> 
