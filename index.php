@@ -262,7 +262,7 @@
             <div class="row">
 
               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer">
-                <p class="footer-text">v2.3.1<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
+                <p class="footer-text">v2.3.2<!-- <marquee scrollamount="5"  DIRECTION="up"> --><!-- </marquee> --></p>
               </div><!-- /.footer --> 
             </div>
 

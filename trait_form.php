@@ -54,7 +54,7 @@ else
 					'Reply-To:'.$email. "\r\n" .
 					'X-Mailer:PHP/'.phpversion();
 		// Envoi du mail
-		if (mail("loic.entressangle@gmail.com", "test", "coucou"))
+		if (mail("loic.entressangle@gmail.com", $objet, "Mr/Mme $nom \n$message"))
 		{
 			echo '<p>'.$message_envoye.'</p>'."\n";
 			header ("Refresh: 2;URL=index.php");
